@@ -20,4 +20,4 @@ CSS
 ✈️ Acesse o site
 Hospedado no Netlify
 
-https://chale-hotel-gsj.netlify.app/
+https://websitechalehotel.netlify.app/
